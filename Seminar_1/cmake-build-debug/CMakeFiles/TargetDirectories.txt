@@ -1,0 +1,3 @@
+C:/Users/Ștefan/Desktop/SDA/Seminar_1/cmake-build-debug/CMakeFiles/Seminar_1.dir
+C:/Users/Ștefan/Desktop/SDA/Seminar_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ștefan/Desktop/SDA/Seminar_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
