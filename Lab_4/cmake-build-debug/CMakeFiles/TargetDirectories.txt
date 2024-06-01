@@ -1,0 +1,3 @@
+C:/Users/Ștefan/Desktop/SDA/Lab_4/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Ștefan/Desktop/SDA/Lab_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ștefan/Desktop/SDA/Lab_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
